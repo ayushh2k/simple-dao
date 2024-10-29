@@ -86,6 +86,10 @@ The application should now be running at `http://localhost:5173`
 - Hardhat is used for smart contract development and local blockchain simulation.
 - ethers.js is used to interact with the Ethereum blockchain and smart contracts from the frontend.
 
+## Screenshots
+
+![home](./assets/screenshots/homepage.png)
+![sample-proposal](./assets/screenshots/sample-proposal.png)
 
 ## Troubleshooting
 
